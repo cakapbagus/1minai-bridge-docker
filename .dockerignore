@@ -1,0 +1,7 @@
+config.local.json
+.env
+node_modules
+*.vbs
+*.cmd
+bridge.test.mjs
+README.md

@@ -1,0 +1,20 @@
+services:
+  minai-bridge:
+    build: .
+    restart: unless-stopped
+    environment:
+      - MINAI_API_KEY=${MINAI_API_KEY:?isi di tab Environment}
+      - BRIDGE_KEY=${BRIDGE_KEY:?isi di tab Environment (min 24 karakter)}
+      - TIMEOUT_MS=${TIMEOUT_MS:-120000}
+      - MAX_PROMPT_BYTES=${MAX_PROMPT_BYTES:-240000}
+    # Tanpa ports/domain: bridge hanya bisa dijangkau lewat network Docker internal.
+    expose:
+      - "20129"
+    networks:
+      dokploy-network:
+        aliases:
+          - minai-bridge
+
+networks:
+  dokploy-network:
+    external: true

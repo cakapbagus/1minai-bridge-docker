@@ -1,0 +1,748 @@
+{
+  "source": "https://api.1min.ai/models?feature=UNIFY_CHAT_WITH_AI",
+  "updatedAt": "2026-09-14T10:35:32.351Z",
+  "models": [
+    {
+      "id": "qwen3.7-plus",
+      "object": "model",
+      "created": 0,
+      "owned_by": "alibaba",
+      "name": "Qwen 3.7 Plus - Alibaba Cloud"
+    },
+    {
+      "id": "qwen3.7-max",
+      "object": "model",
+      "created": 0,
+      "owned_by": "alibaba",
+      "name": "Qwen 3.7 Max - Alibaba Cloud"
+    },
+    {
+      "id": "qwen3.7-flash",
+      "object": "model",
+      "created": 0,
+      "owned_by": "alibaba",
+      "name": "Qwen 3.7 Flash - Alibaba Cloud"
+    },
+    {
+      "id": "qwen3.6-plus",
+      "object": "model",
+      "created": 0,
+      "owned_by": "alibaba",
+      "name": "Qwen 3.6 Plus - Alibaba Cloud"
+    },
+    {
+      "id": "qwen3.6-max-preview",
+      "object": "model",
+      "created": 0,
+      "owned_by": "alibaba",
+      "name": "Qwen 3.6 Max Preview - Alibaba Cloud"
+    },
+    {
+      "id": "qwen3.6-flash",
+      "object": "model",
+      "created": 0,
+      "owned_by": "alibaba",
+      "name": "Qwen 3.6 Flash - Alibaba Cloud"
+    },
+    {
+      "id": "qwen3-vl-plus",
+      "object": "model",
+      "created": 0,
+      "owned_by": "alibaba",
+      "name": "Qwen3 VL Plus - Alibaba Cloud"
+    },
+    {
+      "id": "qwen3-vl-flash",
+      "object": "model",
+      "created": 0,
+      "owned_by": "alibaba",
+      "name": "Qwen3 VL Flash - Alibaba Cloud"
+    },
+    {
+      "id": "qwen3-vl-8b-thinking",
+      "object": "model",
+      "created": 0,
+      "owned_by": "alibaba",
+      "name": "Qwen3 VL 8B Thinking"
+    },
+    {
+      "id": "qwen3-max",
+      "object": "model",
+      "created": 0,
+      "owned_by": "alibaba",
+      "name": "Qwen3 Max - Alibaba Cloud"
+    },
+    {
+      "id": "qwen3-8b",
+      "object": "model",
+      "created": 0,
+      "owned_by": "alibaba",
+      "name": "Qwen3 8B"
+    },
+    {
+      "id": "qwen-vl-plus",
+      "object": "model",
+      "created": 0,
+      "owned_by": "alibaba",
+      "name": "Qwen VL Plus - Alibaba Cloud"
+    },
+    {
+      "id": "qwen-vl-max",
+      "object": "model",
+      "created": 0,
+      "owned_by": "alibaba",
+      "name": "Qwen VL Max - Alibaba Cloud"
+    },
+    {
+      "id": "qwen-plus",
+      "object": "model",
+      "created": 0,
+      "owned_by": "alibaba",
+      "name": "Qwen Plus - Alibaba Cloud"
+    },
+    {
+      "id": "qwen-max",
+      "object": "model",
+      "created": 0,
+      "owned_by": "alibaba",
+      "name": "Qwen Max - Alibaba Cloud"
+    },
+    {
+      "id": "qwen-flash",
+      "object": "model",
+      "created": 0,
+      "owned_by": "alibaba",
+      "name": "Qwen Flash - Alibaba Cloud"
+    },
+    {
+      "id": "us.anthropic.claude-sonnet-5",
+      "object": "model",
+      "created": 0,
+      "owned_by": "aws-bedrock",
+      "name": "Claude 5 Sonnet - AWS Bedrock US"
+    },
+    {
+      "id": "us.anthropic.claude-sonnet-4-6",
+      "object": "model",
+      "created": 0,
+      "owned_by": "aws-bedrock",
+      "name": "Claude 4.6 Sonnet - AWS Bedrock US"
+    },
+    {
+      "id": "us.anthropic.claude-sonnet-4-5-20250929-v1:0",
+      "object": "model",
+      "created": 0,
+      "owned_by": "aws-bedrock",
+      "name": "Claude 4.5 Sonnet - AWS Bedrock US"
+    },
+    {
+      "id": "us.anthropic.claude-opus-5",
+      "object": "model",
+      "created": 0,
+      "owned_by": "aws-bedrock",
+      "name": "Claude 5 Opus - AWS Bedrock US"
+    },
+    {
+      "id": "us.anthropic.claude-opus-4-8",
+      "object": "model",
+      "created": 0,
+      "owned_by": "aws-bedrock",
+      "name": "Claude 4.8 Opus - AWS Bedrock US"
+    },
+    {
+      "id": "us.anthropic.claude-opus-4-7",
+      "object": "model",
+      "created": 0,
+      "owned_by": "aws-bedrock",
+      "name": "Claude 4.7 Opus - AWS Bedrock US"
+    },
+    {
+      "id": "us.anthropic.claude-opus-4-6-v1",
+      "object": "model",
+      "created": 0,
+      "owned_by": "aws-bedrock",
+      "name": "Claude 4.6 Opus - AWS Bedrock US"
+    },
+    {
+      "id": "us.anthropic.claude-opus-4-5-20251101-v1:0",
+      "object": "model",
+      "created": 0,
+      "owned_by": "aws-bedrock",
+      "name": "Claude 4.5 Opus - AWS Bedrock US"
+    },
+    {
+      "id": "us.anthropic.claude-haiku-4-5-20251001-v1:0",
+      "object": "model",
+      "created": 0,
+      "owned_by": "aws-bedrock",
+      "name": "Claude 4.5 Haiku - AWS Bedrock US"
+    },
+    {
+      "id": "us.anthropic.claude-fable-5-1",
+      "object": "model",
+      "created": 0,
+      "owned_by": "aws-bedrock",
+      "name": "Claude 5.1 Fable - AWS Bedrock US"
+    },
+    {
+      "id": "us.anthropic.claude-fable-5",
+      "object": "model",
+      "created": 0,
+      "owned_by": "aws-bedrock",
+      "name": "Claude 5 Fable - AWS Bedrock US"
+    },
+    {
+      "id": "command-r-08-2024",
+      "object": "model",
+      "created": 0,
+      "owned_by": "cohere",
+      "name": "Command R - Cohere"
+    },
+    {
+      "id": "deepseek-v4-pro",
+      "object": "model",
+      "created": 0,
+      "owned_by": "deepseek",
+      "name": "DeepSeek V4 Pro"
+    },
+    {
+      "id": "deepseek-v4-flash",
+      "object": "model",
+      "created": 0,
+      "owned_by": "deepseek",
+      "name": "DeepSeek V4 Flash"
+    },
+    {
+      "id": "deepseek-reasoner",
+      "object": "model",
+      "created": 0,
+      "owned_by": "deepseek",
+      "name": "DeepSeek V3.2 Reasoner"
+    },
+    {
+      "id": "deepseek-flash",
+      "object": "model",
+      "created": 0,
+      "owned_by": "deepseek",
+      "name": "DeepSeek V4.1 Flash"
+    },
+    {
+      "id": "deepseek-chat",
+      "object": "model",
+      "created": 0,
+      "owned_by": "deepseek",
+      "name": "DeepSeek V3.2 Chat"
+    },
+    {
+      "id": "gemini-3.8-flash",
+      "object": "model",
+      "created": 0,
+      "owned_by": "googleai",
+      "name": "Gemini 3.8 Flash - GoogleAI"
+    },
+    {
+      "id": "gemini-3.7-flash",
+      "object": "model",
+      "created": 0,
+      "owned_by": "googleai",
+      "name": "Gemini 3.7 Flash - GoogleAI"
+    },
+    {
+      "id": "gemini-3.6-flash",
+      "object": "model",
+      "created": 0,
+      "owned_by": "googleai",
+      "name": "Gemini 3.6 Flash - GoogleAI"
+    },
+    {
+      "id": "gemini-3.5-flash",
+      "object": "model",
+      "created": 0,
+      "owned_by": "googleai",
+      "name": "Gemini 3.5 Flash - GoogleAI"
+    },
+    {
+      "id": "gemini-3.1-pro-preview",
+      "object": "model",
+      "created": 0,
+      "owned_by": "googleai",
+      "name": "Gemini 3.1 Pro - GoogleAI"
+    },
+    {
+      "id": "gemini-3.1-flash-lite-preview",
+      "object": "model",
+      "created": 0,
+      "owned_by": "googleai",
+      "name": "Gemini 3.1 Flash Lite - GoogleAI"
+    },
+    {
+      "id": "gemini-3-flash-preview",
+      "object": "model",
+      "created": 0,
+      "owned_by": "googleai",
+      "name": "Gemini 3 Flash - GoogleAI"
+    },
+    {
+      "id": "gemini-2.5-pro",
+      "object": "model",
+      "created": 0,
+      "owned_by": "googleai",
+      "name": "Gemini 2.5 Pro -  GoogleAI"
+    },
+    {
+      "id": "gemini-2.5-flash",
+      "object": "model",
+      "created": 0,
+      "owned_by": "googleai",
+      "name": "Gemini 2.5 Flash -  GoogleAI"
+    },
+    {
+      "id": "meta/meta-llama-3-70b-instruct",
+      "object": "model",
+      "created": 0,
+      "owned_by": "replicate",
+      "name": "LLaMA 3 70b - MetaAI"
+    },
+    {
+      "id": "meta/llama-4-scout-instruct",
+      "object": "model",
+      "created": 0,
+      "owned_by": "replicate",
+      "name": "LLaMA 4 Scout Instruct - MetaAI"
+    },
+    {
+      "id": "meta/llama-4-maverick-instruct",
+      "object": "model",
+      "created": 0,
+      "owned_by": "replicate",
+      "name": "LLaMA 4 Maverick Instruct - MetaAI"
+    },
+    {
+      "id": "magistral-small-latest",
+      "object": "model",
+      "created": 0,
+      "owned_by": "mistralai",
+      "name": "Magistral Small 1.2 - MistralAI"
+    },
+    {
+      "id": "magistral-medium-latest",
+      "object": "model",
+      "created": 0,
+      "owned_by": "mistralai",
+      "name": "Magistral Medium 1.2 - MistralAI"
+    },
+    {
+      "id": "ministral-14b-latest",
+      "object": "model",
+      "created": 0,
+      "owned_by": "mistralai",
+      "name": "Ministral 14B Latest - MistralAI"
+    },
+    {
+      "id": "open-mistral-nemo",
+      "object": "model",
+      "created": 0,
+      "owned_by": "mistralai",
+      "name": "Mistral Open Nemo - MistralAI"
+    },
+    {
+      "id": "mistral-small-latest",
+      "object": "model",
+      "created": 0,
+      "owned_by": "mistralai",
+      "name": "Mistral Small - MistralAI"
+    },
+    {
+      "id": "mistral-small-2603",
+      "object": "model",
+      "created": 0,
+      "owned_by": "mistralai",
+      "name": "Mistral Small 4 - MistralAI"
+    },
+    {
+      "id": "mistral-medium-latest",
+      "object": "model",
+      "created": 0,
+      "owned_by": "mistralai",
+      "name": "Mistral Medium 3.1 - MistralAI"
+    },
+    {
+      "id": "mistral-medium-3-5",
+      "object": "model",
+      "created": 0,
+      "owned_by": "mistralai",
+      "name": "Mistral Medium 3.5 - MistralAI"
+    },
+    {
+      "id": "mistral-large-latest",
+      "object": "model",
+      "created": 0,
+      "owned_by": "mistralai",
+      "name": "Mistral Large 2 - MistralAI"
+    },
+    {
+      "id": "mistral-large-2512",
+      "object": "model",
+      "created": 0,
+      "owned_by": "mistralai",
+      "name": "Mistral Large 3 - MistralAI"
+    },
+    {
+      "id": "gpt-5.3-codex",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-5.3 Codex - OpenAI"
+    },
+    {
+      "id": "o3-mini",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-o3 Mini - OpenAI"
+    },
+    {
+      "id": "gpt-6-astra",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-6 Astra - OpenAI"
+    },
+    {
+      "id": "gpt-5.6-terra",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-5.6 Terra - OpenAI"
+    },
+    {
+      "id": "gpt-5.6-sol",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-5.6 Sol - OpenAI"
+    },
+    {
+      "id": "gpt-5.6-luna",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-5.6 Luna - OpenAI"
+    },
+    {
+      "id": "gpt-5.5-pro",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-5.5 Pro - OpenAI"
+    },
+    {
+      "id": "gpt-5.5",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-5.5 - OpenAI"
+    },
+    {
+      "id": "gpt-5.4-pro",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-5.4 Pro - OpenAI"
+    },
+    {
+      "id": "gpt-5.4-nano",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-5.4 Nano - OpenAI"
+    },
+    {
+      "id": "gpt-5.4-mini",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-5.4 Mini - OpenAI"
+    },
+    {
+      "id": "gpt-5.4",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-5.4 - OpenAI"
+    },
+    {
+      "id": "gpt-5.2-pro",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-5.2 Pro - OpenAI"
+    },
+    {
+      "id": "gpt-5.2",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-5.2 - OpenAI"
+    },
+    {
+      "id": "gpt-5.1",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-5.1 - OpenAI"
+    },
+    {
+      "id": "gpt-5-nano",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-5 Nano - OpenAI"
+    },
+    {
+      "id": "gpt-5-mini",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-5 Mini - OpenAI"
+    },
+    {
+      "id": "gpt-5",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-5 - OpenAI"
+    },
+    {
+      "id": "gpt-4o-mini",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-4o Mini - OpenAI"
+    },
+    {
+      "id": "gpt-4o",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-4o - OpenAI"
+    },
+    {
+      "id": "gpt-4.1-nano",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-4.1 nano - OpenAI"
+    },
+    {
+      "id": "gpt-4.1-mini",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-4.1 mini - OpenAI"
+    },
+    {
+      "id": "gpt-4.1",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-4.1 - OpenAI"
+    },
+    {
+      "id": "gpt-4-turbo",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-4 Turbo - OpenAI"
+    },
+    {
+      "id": "gpt-3.5-turbo",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "GPT-3.5 - OpenAI"
+    },
+    {
+      "id": "openai/gpt-oss-20b",
+      "object": "model",
+      "created": 0,
+      "owned_by": "replicate",
+      "name": "GPT OSS 20b - OpenAI"
+    },
+    {
+      "id": "openai/gpt-oss-120b",
+      "object": "model",
+      "created": 0,
+      "owned_by": "replicate",
+      "name": "GPT OSS 120b - OpenAI"
+    },
+    {
+      "id": "o3-pro",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "o3 Pro - OpenAI"
+    },
+    {
+      "id": "o3",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openai",
+      "name": "o3 - OpenAI"
+    },
+    {
+      "id": "moonshotai/kimi-k3",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openrouter",
+      "name": "Kimi K3"
+    },
+    {
+      "id": "moonshotai/kimi-k2.7-code",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openrouter",
+      "name": "Kimi K2.7 Code"
+    },
+    {
+      "id": "moonshotai/kimi-k2.6",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openrouter",
+      "name": "Kimi K2.6"
+    },
+    {
+      "id": "meta/muse-spark-1.3",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openrouter",
+      "name": "Muse Spark 1.3"
+    },
+    {
+      "id": "meta/muse-spark-1.2",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openrouter",
+      "name": "Muse Spark 1.2"
+    },
+    {
+      "id": "meta/muse-spark-1.1",
+      "object": "model",
+      "created": 0,
+      "owned_by": "openrouter",
+      "name": "Muse Spark 1.1"
+    },
+    {
+      "id": "sonar-reasoning-pro",
+      "object": "model",
+      "created": 0,
+      "owned_by": "perplexity",
+      "name": "Perplexity [reasoning pro]"
+    },
+    {
+      "id": "sonar-pro",
+      "object": "model",
+      "created": 0,
+      "owned_by": "perplexity",
+      "name": "Perplexity [pro]"
+    },
+    {
+      "id": "sonar-deep-research",
+      "object": "model",
+      "created": 0,
+      "owned_by": "perplexity",
+      "name": "Perplexity [deep research]"
+    },
+    {
+      "id": "sonar",
+      "object": "model",
+      "created": 0,
+      "owned_by": "perplexity",
+      "name": "Perplexity"
+    },
+    {
+      "id": "grok-4.6",
+      "object": "model",
+      "created": 0,
+      "owned_by": "xai",
+      "name": "xAI - Grok 4.6"
+    },
+    {
+      "id": "grok-4.5",
+      "object": "model",
+      "created": 0,
+      "owned_by": "xai",
+      "name": "xAI - Grok 4.5"
+    },
+    {
+      "id": "grok-4.3",
+      "object": "model",
+      "created": 0,
+      "owned_by": "xai",
+      "name": "xAI - Grok 4.3"
+    },
+    {
+      "id": "grok-4-fast-reasoning",
+      "object": "model",
+      "created": 0,
+      "owned_by": "xai",
+      "name": "xAI - Grok 4 Fast Reasoning"
+    },
+    {
+      "id": "grok-4-fast-non-reasoning",
+      "object": "model",
+      "created": 0,
+      "owned_by": "xai",
+      "name": "xAI - Grok 4 Fast Non-Reasoning"
+    },
+    {
+      "id": "grok-4-0709",
+      "object": "model",
+      "created": 0,
+      "owned_by": "xai",
+      "name": "xAI - Grok 4"
+    },
+    {
+      "id": "grok-3-mini",
+      "object": "model",
+      "created": 0,
+      "owned_by": "xai",
+      "name": "xAI - Grok 3 Mini"
+    },
+    {
+      "id": "grok-3",
+      "object": "model",
+      "created": 0,
+      "owned_by": "xai",
+      "name": "xAI - Grok 3"
+    },
+    {
+      "id": "glm-5.3",
+      "object": "model",
+      "created": 0,
+      "owned_by": "zai",
+      "name": "GLM-5.3 - Z.AI"
+    },
+    {
+      "id": "glm-5.2",
+      "object": "model",
+      "created": 0,
+      "owned_by": "zai",
+      "name": "GLM-5.2 - Z.AI"
+    },
+    {
+      "id": "glm-5.1",
+      "object": "model",
+      "created": 0,
+      "owned_by": "zai",
+      "name": "GLM-5.1 - Z.AI"
+    },
+    {
+      "id": "glm-5",
+      "object": "model",
+      "created": 0,
+      "owned_by": "zai",
+      "name": "GLM-5 - Z.AI"
+    }
+  ]
+}

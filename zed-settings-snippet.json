@@ -1,0 +1,22 @@
+{
+  "language_models": {
+    "openai_compatible": {
+      "9router": {
+        "api_url": "http://127.0.0.1:20128/v1",
+        "available_models": [
+          {
+            "name": "1MINAI_AGENT",
+            "display_name": "1minAI Agent (experimental)",
+            "max_tokens": 16000,
+            "capabilities": {
+              "tools": true,
+              "images": false,
+              "parallel_tool_calls": false,
+              "chat_completions": true
+            }
+          }
+        ]
+      }
+    }
+  }
+}
